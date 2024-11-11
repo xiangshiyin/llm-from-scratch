@@ -24,5 +24,5 @@ conda env export > environment.yml
 ```
 
 ## Miscellaneous
-- PyTorch tutorial [youtube](https://www.youtube.com/playlist?list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN)
+- PyTorch tutorial [[youtube](https://www.youtube.com/playlist?list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN)] [[official](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)]
 
