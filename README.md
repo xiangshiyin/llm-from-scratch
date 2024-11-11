@@ -23,6 +23,11 @@ If any changes are made to the environment, update the `environment.yml` file by
 conda env export > environment.yml
 ```
 
+### IDE Setup
+For VSCode, install the following extensions:
+- Python
+- Jupyter (this will allow you to run Jupyter notebooks within VSCode)
+
 ## Miscellaneous
 - PyTorch tutorial [[youtube](https://www.youtube.com/playlist?list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN)] [[official](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)]
 
