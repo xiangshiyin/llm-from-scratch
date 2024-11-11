@@ -1,5 +1,6 @@
 # llm-from-scratch
 Hands-on practice on NLP and LLM applications
+- <a href="https://nbviewer.jupyter.org/github/xiangshiyin/llm-from-scratch/blob/main/torch_from_scratch/tensor.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a> - to view the notebooks on `nbviewer`
 
 ## Envrionment Setup
 ### Pre-requisites
