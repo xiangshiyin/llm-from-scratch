@@ -1,1 +1,3 @@
-- [Notebook examples](https://github.com/amanjeetsahu/Natural-Language-Processing-Specialization)
+- Notebook examples
+  - [1](https://github.com/amanjeetsahu/Natural-Language-Processing-Specialization)
+  - [2](https://github.com/FahdSeddik/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main)
