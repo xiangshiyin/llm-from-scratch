@@ -1,3 +1,5 @@
 - Notebook examples
   - [1](https://github.com/amanjeetsahu/Natural-Language-Processing-Specialization)
   - [2](https://github.com/FahdSeddik/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main)
+- How to write a spelling corrector [[link](https://norvig.com/spell-correct.html)]
+- 
